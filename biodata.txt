@@ -1,0 +1,33 @@
+=====================================================
+                BIODATA MAHASISWA
+=====================================================
+
+1.  Nama Lengkap      : Ayub Setya Wardhana 
+2.  NIM               : 2306700023
+3.  Program Studi     : Teknik Informatika 
+4.  Fakultas          : Teknik
+5.  Tempat/Tgl Lahir  : Subang-3 maret 
+6.  Jenis Kelamin     : Laki-laki 
+7.  Alamat            : -
+8.  Email             : Kochan4410@gmail.com Untuk email tugas
+9.  No. Telepon       : ********4864
+
+-----------------------------------------------------
+PROFIL & MINAT KHUSUS (MILITARY TECHNOLOGY):
+-----------------------------------------------------
+Hobi              : Alat Militer dan Persenjataan
+Bakat             : 
+
+Fokus Minat       : 
+    - Teknologi Jet Tempur (Avionics)
+    - Sistem Kendaraan Tempur (Tank)
+    - Internet of Military Things (IoMT)
+    - Robotic Drone & Autonomous Systems
+    - Persenjataan Modern
+
+* Editor          : Visual Studio Code (VS Code)
+* Status Tugas    : Selesai (File biodata.txt)
+
+=====================================================
+    "Siap mengabdi melalui teknologi dan inovasi"
+=====================================================
